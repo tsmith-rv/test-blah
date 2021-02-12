@@ -2,6 +2,6 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
-docs_dir: ''
+docs_dir: 'docs'
 plugins:
   - techdocs-core
